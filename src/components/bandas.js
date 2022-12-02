@@ -38,8 +38,10 @@ function Bandas() {
            <Banda banda={banda} />
          </Col>
        ))}
+            <text>la banda mas antigua es PLACEHOLDER y fue fundada hace n anos</text>
+ 
      </Row>
-   </div>
+  </div>
  );
 }
 
